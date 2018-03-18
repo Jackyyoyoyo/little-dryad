@@ -24,6 +24,9 @@
   "keywords": [
     ""
   ],
+  "pre-commit": [
+    "lint"
+  ],
   "homepage": "https://github.com/HsuTing/little-dryad/",
   "repository": {
     "type": "git",
