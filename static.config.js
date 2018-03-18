@@ -2,6 +2,6 @@
 
 module.exports = [{
   component: './lib/pages/Main',
-  js: 'index',
+  js: 'main',
   name: 'docs'
 }];
