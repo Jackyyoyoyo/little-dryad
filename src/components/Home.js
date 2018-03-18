@@ -14,7 +14,7 @@ export default class Home extends React.PureComponent {
     return (
       <div>
         This is Index!
-        test1
+        test
       </div>
     );
   }
