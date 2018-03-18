@@ -1,0 +1,52 @@
+{
+  "generator-cat": {
+    "promptValues": {
+      "authorName": "HsuTing",
+      "authorEmail": "hsuting0106@gmail.com",
+      "authorUrl": "http://hsuting.com",
+      "private": false,
+      "website": true,
+      "chooseType": "docs",
+      "graphql": false,
+      "plugins": [],
+      "subject": "Little dryad",
+      "otherSettings": [
+        "firebase"
+      ],
+      "firebase-firebase_version": "4.11.0",
+      "firebase-apiKey": "AIzaSyAUFEEJmpxOq9jmisTDYwg26NwBFqrMtGM",
+      "firebase-authDomain": "little-dryad.firebaseapp.com",
+      "firebase-databaseURL": "https://little-dryad.firebaseio.com",
+      "firebase-projectId": "little-dryad",
+      "firebase-storageBucket": "",
+      "firebase-messagingSenderId": "673845503919"
+    },
+    "plugins": [
+      "docs",
+      "react"
+    ],
+    "alias": {
+      "public": "public",
+      "components": "components",
+      "componentsShare": "components/share",
+      "utils": "utils"
+    },
+    "template": {
+      "subject": "Little dryad",
+      "url": "https://hsuting.github.io/little-dryad/",
+      "otherSettings": [
+        "firebase"
+      ],
+      "firebase": {
+        "firebase_version": "4.11.0",
+        "apiKey": "AIzaSyAUFEEJmpxOq9jmisTDYwg26NwBFqrMtGM",
+        "authDomain": "little-dryad.firebaseapp.com",
+        "databaseURL": "https://little-dryad.firebaseio.com",
+        "projectId": "little-dryad",
+        "storageBucket": "",
+        "messagingSenderId": "673845503919"
+      }
+    },
+    "cat": true
+  }
+}
